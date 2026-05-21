@@ -4,10 +4,10 @@ Un sistema integrato Hardware e Software sviluppato come progetto per l'Esame di
 
 Il progetto nasce dalla richiesta di modernizzare e automatizzare il tradizionale gioco del Bingo, integrandolo con un tabellone fisico a LED gestito da microcontrollori e un'infrastruttura software sicura e portabile.
 
-## Realizzato da:
-* **Gabriele Ogliar Badessi**
-* **Alessandro Donida Labati**
-* **Diego Moscardi**
+## 👥 Realizzato da:
+* [@GabrieleOB](https://github.com/GabrieleOB)
+* [@doni0000](https://github.com/doni0000)
+* [@DiegoMoscardi618](https://github.com/DiegoMoscardi618)
 
 ---
 
